@@ -1,2 +1,2 @@
 "use strict";(self["webpackChunkml_toolset_frontend"]=self["webpackChunkml_toolset_frontend"]||[]).push([[443],{7929:function(n,t,e){e.r(t),e.d(t,{default:function(){return g}});var o=e(3396);const u={class:"about"},l=(0,o._)("h1",null,"This is an about page",-1),s=(0,o.Uk)(" Welcome "),r=(0,o._)("button",null,"Login",-1);function i(n,t,e,i,a,c){const d=(0,o.up)("router-link");return(0,o.wg)(),(0,o.iD)("div",u,[l,s,n.isLoggedIn?((0,o.wg)(),(0,o.j4)(d,{key:0,to:"/login"},{default:(0,o.w5)((()=>[r])),_:1})):(0,o.kq)("",!0)])}var a=e(65),c={computed:{...(0,a.Se)(["isLoggedIn"])}},d=e(89);const f=(0,d.Z)(c,[["render",i]]);var g=f}}]);
-//# sourceMappingURL=about.6511ce0d.js.map
+//# sourceMappingURL=about.12235934.js.map
