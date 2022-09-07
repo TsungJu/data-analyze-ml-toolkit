@@ -26,7 +26,7 @@ export default {
     ...mapMutations(['setUser','setToken']),
     async login(e) {
       e.preventDefault();
-      const response = await fetch("https://leonardapi.herokuapp.com/login",{
+      const response = await fetch("https://data-analyze-ml-toolset-backend.azurewebsites.net/api/login",{
         method: 'POST',
         headers:{
           'Content-Type':'application/json',
